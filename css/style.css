@@ -328,7 +328,7 @@
   width: 100%;
 }
 
-.all-recipes {
+.all-porto {
   text-align: center;
   font-size: 1.8rem;
 }
@@ -674,4 +674,8 @@
 .footer-link:hover,
 .footer-link:active {
   color: #555;
+}
+
+html{
+  scroll-behavior: smooth;
 }
